@@ -1,3 +1,3 @@
 # demo1
 this is my first repository
-author-Gyasuddin Ali
+author-Gyasuddin Shams
